@@ -1,0 +1,10 @@
+.content-wrapper>.content {
+    padding: 0 .5rem;
+    background: #fff;
+}
+.content-wrapper {
+    background: #fff;
+}
+.capitalize{
+	text-transform: capitalize;
+}
